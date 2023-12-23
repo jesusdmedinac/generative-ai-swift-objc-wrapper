@@ -18,7 +18,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "generative-ai-swift",
+  name: "generative-ai-swift-objc-wrapper",
   platforms: [
     .iOS(.v15),
     .macOS(.v12),
